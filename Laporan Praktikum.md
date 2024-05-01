@@ -23,3 +23,17 @@ Pemahaman yang kuat tentang struktur data dan variabel sangat penting dalam peng
 1. Mahasiswa mampu menjelaskan konsep struktur (struct)
 2. Mahasiswa mampu menerapkan struct kedalam pemrograman
 3. Mahasiswa mampu menerapkan array pada struct
+
+**BAB 2**
+
+**PEMBAHASAN**
+
+**DASAR TEORI**
+
+Variabel dalam pemrograman berfungsi sebagai wadah untuk menyimpan data dengan tipe tertentu. Deklarasi variabel dilakukan dengan format yang jelas, menentukan tipe data dan nama variabel, seperti contoh `int berat`, `string mata_kuliah`, atau `char jenis_kelamin`. Secara default, variabel hanya dapat menampung satu nilai tunggal, seperti `175 kg` untuk variabel `berat`. Namun, jika diperlukan penyimpanan lebih dari satu nilai, variabel dapat diinisialisasi sebagai array dengan menentukan jumlah elemen yang diinginkan. Variabel juga dibagi menjadi dua jenis utama: lokal dan global. Variabel lokal dideklarasikan di dalam fungsi atau prosedur dan hanya dikenali oleh bagian kode yang mendeklarasikannya, sementara variabel global dideklarasikan di luar fungsi atau prosedur dan dapat diakses oleh semua bagian dari program.
+
+Struktur (struct) merupakan tipe data bentukan yang memungkinkan pengelompokan beberapa tipe data standar atau tipe data bentukan lain yang telah didefinisikan sebelumnya. Dalam pembuatan struktur, digunakan keyword `struct`, yang kemudian diikuti oleh definisi struktur. Setelah struktur dibuat, tipe data struct yang telah dibuat menjadi tipe data standar yang bisa digunakan seperti tipe data standar lainnya. Ini berarti bahwa kita dapat menggunakan struktur tersebut untuk membuat variabel dengan tipe data yang telah didefinisikan sebelumnya. Dengan pemahaman yang kuat tentang variabel dan struktur, pengembang dapat merancang algoritma yang efisien dan mudah dimengerti, memungkinkan mereka untuk menyelesaikan berbagai masalah pemrograman dengan baik.
+
+**GUIDED**
+
+**GUIDED 1**
