@@ -37,3 +37,27 @@ Struktur (struct) merupakan tipe data bentukan yang memungkinkan pengelompokan b
 **GUIDED**
 
 **GUIDED 1**
+
+Buatlah sebuah struktur dengan nama buku yang berisi judul_buku,
+pengarang, penerbit, tebal_halaman, harga_buku. Isi dengan nilai kemudian
+tampilkan.
+
+**GUIDED 2**
+
+Buatlah sebuah struktur dengan skema seperti dibawah, isi dengan nilai
+kemudian jalankan.
+
+**UNGUIDED**
+
+**UNGUIDED 1**
+
+1. Modifikasi tugas guided pertama, sehingga setiap item yang terdapat pada
+struct buku berupa array yang berukuran 5, isi dengan data kemudian tampilkan.
+
+**UNGUIDED 2**
+2. Apa yang terjadi jika deklarasi variabel struct yang dibuat pada tugas guided I,
+berjenis Array. Bagaimana cara mengisi data dan menampilkannya ?
+
+**DAFTAR PUSTAKA**
+
+
