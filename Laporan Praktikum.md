@@ -621,9 +621,12 @@ berjenis Array. Bagaimana cara mengisi data dan menampilkannya ?
 
 JAWABAN :
 
-Dalam membuat program untuk mengelola data buku, kita dapat menggunakan struktur (struct) sebagai wadah untuk menyimpan informasi tentang buku. Jika kita ingin membuat array dari buku-buku tersebut, kita dapat mendeklarasikan sebuah array dari tipe data struct yang telah kita buat. Misalnya, untuk membuat array dari 3 buku, kita dapat mendeklarasikan sebuah array `daftar_buku` yang berukuran 3 dan setiap elemennya merupakan sebuah struct `Buku`. Dengan menggunakan loop, kita dapat mengisi data buku ke dalam array `daftar_buku`, meminta pengguna untuk memasukkan judul, pengarang, penerbit, tebal buku, dan harga buku untuk setiap buku. Setelah data terisi, kita dapat menggunakan loop lagi untuk menampilkan informasi tentang setiap buku yang telah dimasukkan. Dengan pendekatan ini, kita dapat dengan efisien mengelola data buku dalam program kita.
+Dalam membuat program untuk mengelola data buku, kita dapat menggunakan struktur (struct) sebagai wadah untuk menyimpan informasi tentang buku. Jika kita ingin membuat array dari buku-buku tersebut, kita dapat mendeklarasikan sebuah array dari tipe data struct yang telah kita buat. Misalnya, untuk membuat array dari 5 buku, kita dapat mendeklarasikan sebuah array `daftar_buku` yang berukuran 5 dan setiap elemennya merupakan sebuah struct `Buku`. Dengan menggunakan loop, kita dapat mengisi data buku ke dalam array `daftar_buku`, meminta pengguna untuk memasukkan judul, pengarang, penerbit, tebal buku, dan harga buku untuk setiap buku. Setelah data terisi, kita dapat menggunakan loop lagi untuk menampilkan informasi tentang setiap buku yang telah dimasukkan. Dengan pendekatan ini, kita dapat dengan efisien mengelola data buku dalam program kita.
 
 **DAFTAR PUSTAKA**
+
+Aliyanto, A., Utomo, S., & Santosa, S. (2011). Sistem Pembelajaran Algoritma Stack Dan Queue Dengan Pendekatan Program Based Learning. Jurnal Teknologi Informasi, 7(1), 17–18.
+
 
 
 
