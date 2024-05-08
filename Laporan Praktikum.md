@@ -432,8 +432,6 @@ Dalam kode tersebut, terdapat dua objek hewan yang didefinisikan sebagai `hewan1
 
 Setelah nilai atribut-atribut tersebut diisi, kode menampilkan informasi tentang kedua hewan tersebut dengan menggunakan `cout`. Informasi yang ditampilkan mencakup semua atribut-atribut yang telah didefinisikan.
 
-Hal penting yang perlu diperhatikan dalam kode ini adalah penggunaan struktur data yang terstruktur dengan baik untuk merepresentasikan objek-objek hewan. Dengan menggunakan struktur data ini, kita dapat dengan mudah mengelola informasi-informasi terkait tentang setiap hewan.
-
 **UNGUIDED**
 
 **UNGUIDED 1**
